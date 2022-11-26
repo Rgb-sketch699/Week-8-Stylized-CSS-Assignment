@@ -1,0 +1,48 @@
+.hov{
+    height: 25px;
+    width: 65px;
+    background-color:aqua;
+}
+
+.hov:hover{
+    background-color:white;
+}
+body{
+    background-color:rgb(196, 196, 196);
+}
+
+h1{
+    color:black;
+}
+
+h2{
+    color:black;
+    text-shadow: white 1px 1px;
+}
+
+h5{
+    
+}
+
+div{
+    background-color:aqua; 
+    border-style:solid; 
+    border-color:black; 
+    border-radius: 5px;
+}
+
+div{
+    font-size: 20px; 
+    background-color:aqua; 
+    border-style:solid; 
+    border-color:black; 
+    border-radius: 5px;
+}
+
+.shadow-text{
+    text-shadow: rgb(255, 255, 255) 1px 1px;
+}
+
+#large-paragraph{
+    font-size: 20px;
+}

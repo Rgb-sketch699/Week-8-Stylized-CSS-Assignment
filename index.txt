@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Home</h1>
+
+    <div class="hov">
+        <a class="shadow-text" style="font-size: 20px;" href="index.html">Home</a>
+    </div>
+
+    <div class="hov">
+        <a class="shadow-text" style="font-size: 20px;" href="about.html">About</a>
+    </div>
+
+    <div class="hov">
+        <a class="shadow-text" style="font-size: 20px;" href="contact.html">Contact</a>
+    </div>
+
+    <img height ="1000px" src="https://media.contentapi.ea.com/content/dam/star-wars-battlefront-2/images/2019/09/swbf2-featured-image-cooperation-update.jpg.adapt.crop191x100.628p.jpg" alt="A Republic Commando shooting.">
+
+    <div>
+    <p id="large-paragraph" class="shadow-text"> Here is a picture of a Republic Commando Shooting a blaster alongside some regs. Regs are short for regular troopers. It is common slang amongst enhanced Clones like these bad boys as they have genetic alterations from the standard tube-grown Clone.</p>
+    </div>
+</body>
+</html>

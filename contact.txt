@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Contact</h1>
+    
+    <div class="hov">
+        <a class="shadow-text" style="font-size: 20px;" href="index.html">Home</a>
+    </div>
+
+    <div class="hov">
+        <a class="shadow-text" style="font-size: 20px;" href="about.html">About</a>
+    </div>
+
+    <div class="hov">
+        <a class="shadow-text" style="font-size: 20px;" href="contact.html">Contact</a>
+    </div>
+    <table>
+        <tr>
+            <th>Site</th>
+            <th>Link</th>
+        </tr>
+        <tr>
+            <td class="shadow-text";>Facebook</td>
+            <td><a href="#"; class="hov"; >Visit our Facebook</a></td>
+        </tr>
+        <tr>
+            <td class="shadow-text">Instagram</td>
+            <td><a href="#"; class="hov">Visit our Instagram</a></td>
+        </tr>
+    </table>
+    <form>
+        <h2>Contact us for Commando Deployment on your home planet.</h2>
+        <input type="text" name="firstName" placeholder="First Name">
+        <input type="text" name="lastName" placeholder="Last Name">
+        <input type="text" name="phone" placeholder="Phone Number">
+        <input type="submit" value="Submit">
+    </form>
+    <img height="1000px" src="https://mp1st.com/wp-content/uploads/2019/09/swbf2-clone-commando.gif" alt="A Republic Commando looking to redeem Kamino from a Seperatist siege."
+</body>
+</html>
